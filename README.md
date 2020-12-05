@@ -32,7 +32,7 @@ The following packages and libraries are required:
 - import tensorflow as tf
 - import time
 
-Reproduce the result by the following steps:
+Run my result by the following steps:
 Import all the libraries
 Upload test.csv, train.csv, best_model_file.h5
 My result test_20660026.csv
